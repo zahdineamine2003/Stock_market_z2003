@@ -146,5 +146,4 @@ GitHub: [zahdineamine2003](https://github.com/zahdineamine2003)
 
 ---
 
-If you want, I can prepare the actual `README.md` file and save it to your local directory. Would you like me to do that?
 ```
