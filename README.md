@@ -112,6 +112,13 @@ This will:
 └───__pycache__
         train.cpython-313.pyc
 ```
+## Capture d'écran
+
+Voici la capture d'écran de la prédiction finale :
+
+![Prédiction des prix boursiers](images/stock graph.png)
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+(images/stockhistogram.png)
 
 * `predict_stocks.py`: Script to train the BiLSTM model and generate predictions
 * `evaluate_predictions.py`: Script to evaluate predictions and plot graphs
@@ -124,11 +131,10 @@ This will:
 
 ## Metrics
 
-* **Directional Accuracy**: Percentage of times the predicted price movement direction matches the true direction.
-* **RMSE** (Root Mean Squared Error): Measures average magnitude of prediction error.
-* **MAE** (Mean Absolute Error): Measures average absolute error between predictions and true values.
-* **Accuracy (within ±2 price units)**: Percentage of predictions within ±2 units of the true price.
-
+* **Directional Accuracy**:50%
+* **RMSE** (Root Mean Squared Error): 3.4723
+* **MAE** (Mean Absolute Error): 2.4122
+* **Accuracy (within ±3 price units)**: 73.81%
 ---
 
 ## License
