@@ -138,7 +138,7 @@ This project is licensed under the MIT License.
 ---
 
 ## Contact
-
+zahdineamine23@gmail.com
 Developed by Amine Zahdine
 GitHub: [zahdineamine2003](https://github.com/zahdineamine2003)
 
