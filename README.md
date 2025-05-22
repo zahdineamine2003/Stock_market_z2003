@@ -118,7 +118,7 @@ Voici la capture d'écran de la prédiction finale :
 
 ![Prédiction des prix boursiers](images/stock graph.png)
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-(images/stockhistogram.png)
+![Histogramme des prix boursiers](images/stockhistogram.png)
 
 * `predict_stocks.py`: Script to train the BiLSTM model and generate predictions
 * `evaluate_predictions.py`: Script to evaluate predictions and plot graphs
