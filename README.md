@@ -116,9 +116,9 @@ This will:
 
 Voici la capture d'écran de la prédiction finale :
 
-![Prédiction des prix boursiers](images/stockgraph.png)
+![Prédiction des prix boursiers](https://github.com/zahdineamine2003/Stock_market_z2003/raw/main/images/stockgraph.png)
 
-![Histogramme des prix boursiers](images/stockhistogram.png)
+![Histogramme des prix boursiers](https://github.com/zahdineamine2003/Stock_market_z2003/raw/main/images/stockhistogram.png)
 
 
 * `predict_stocks.py`: Script to train the BiLSTM model and generate predictions
