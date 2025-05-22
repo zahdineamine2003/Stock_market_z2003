@@ -112,13 +112,22 @@ This will:
 └───__pycache__
         train.cpython-313.pyc
 
-## Capture d'écran
+## Screenshots
 
-Voici la capture d'écran de la prédiction finale :
+Here are the final prediction visualizations:
 
-![Prédiction des prix boursiers](https://github.com/zahdineamine2003/Stock_market_z2003/raw/d36884bdccc0b23ba6f4cedd3b040832d89102c6/images/stockgraph.png)
+### 📈 Predicted vs True Stock Prices
 
-![Histogramme des prix boursiers](https://github.com/zahdineamine2003/Stock_market_z2003/raw/d36884bdccc0b23ba6f4cedd3b040832d89102c6/images/stockhistogram.png)
+![Prédiction des prix boursiers](https://raw.githubusercontent.com/zahdineamine2003/Stock_market_z2003/main/images/stockgraph.png)  
+🔗 [Click to view full image](https://raw.githubusercontent.com/zahdineamine2003/Stock_market_z2003/main/images/stockgraph.png)
+
+---
+
+### 📊 Price Prediction Histogram
+
+![Histogramme des prix boursiers](https://raw.githubusercontent.com/zahdineamine2003/Stock_market_z2003/main/images/stockhistogram.png)  
+🔗 [Click to view full image](https://raw.githubusercontent.com/zahdineamine2003/Stock_market_z2003/main/images/stockhistogram.png)
+
 
 
 * `predict_stocks.py`: Script to train the BiLSTM model and generate predictions
