@@ -111,7 +111,7 @@ This will:
 │   requirements.txt
 └───__pycache__
         train.cpython-313.pyc
-```
+
 ## Capture d'écran
 
 Voici la capture d'écran de la prédiction finale :
@@ -120,6 +120,7 @@ Voici la capture d'écran de la prédiction finale :
 
 ![Histogramme des prix boursiers](images/stockhistogram.png)
 
+
 * `predict_stocks.py`: Script to train the BiLSTM model and generate predictions
 * `evaluate_predictions.py`: Script to evaluate predictions and plot graphs
 * `model.pth`, `best_model.pth`: Saved model weights
@@ -127,7 +128,7 @@ Voici la capture d'écran de la prédiction finale :
 * `requirements.txt`: Python dependencies
 * `LICENSE`: License file
 
----
+
 
 ## Metrics
 
